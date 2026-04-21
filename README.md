@@ -1,4 +1,4 @@
-# 💫 Hi 👋🏽, I'm Sinhaaax
+# 💫 Hi 🪐, I'm Sinhaaax
 🔭 I’m currently working on **improving myself**<br>👯 I’m looking to collaborate on _interesting open source_<br>🤝 I’m looking for help with the _coding_<br>🌱 I’m currently **hustling**<br>💬 Ask me about _hustle, life goals_<br>⚡ Fun fact that I am still learning for past 22 years<br>📫 You can reach me at subhadipsinhaju2021@gmail.com
 
 
