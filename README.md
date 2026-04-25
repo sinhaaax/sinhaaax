@@ -83,7 +83,7 @@
 ###
 
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img width="1400" height="280" alt="pookie" src="https://github.com/user-attachments/assets/3f7af366-729e-44d2-8b38-eb63e8debebb" />
 </div>
 
 ###
