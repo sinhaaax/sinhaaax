@@ -1,4 +1,4 @@
-<h2 align="center">Hey👋, I am Sinhaaax</h2>
+<h1 align="center">Hey👋, I am Sinhaaax</h1>
 
 ###
 
@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">💻 I’m currently working on improving myself<br>🧞‍♂️ I’m looking to collaborate on interesting open source<br>🔮 I’m looking for help with the coding<br>🌱 I’m currently hustling<br>💬 Ask me about hustle, life goals<br>⚡ Fun fact that I am still learning for past 22 years<br>📫 You can reach me at subhadipsinhaju2021@gmail.com</p>
+<h3 align="left">💻 I’m currently working on improving myself<br>🧞‍♂️ I’m looking to collaborate on interesting open source<br>🔮 I’m looking for help with the coding<br>🌱 I’m currently hustling<br>💬 Ask me about hustle, life goals<br>⚡ Fun fact that I am still learning for past 22 years<br>📫 You can reach me at subhadipsinhaju2021@gmail.com</h3>
 
 ###
 
