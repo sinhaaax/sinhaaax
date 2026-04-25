@@ -64,8 +64,6 @@
     <img width="48" src="https://img.icons8.com/color/48/youtube-play.png"/>
   </a>
 </div>
-
-  
   
 </div>
 
@@ -73,19 +71,6 @@
 <div align="center">
   <img width="300" height="500" alt="ezgif com-animated-gif-maker" src="https://github.com/user-attachments/assets/a3d66d2d-1d00-4f2a-9453-814fb5d5012e" />
 </div>
-
-
-
-
-<div align="center">
-  <video width="500" height="500" src="https://github.com/user-attachments/assets/59060808-c086-4d04-a8ea-a97026bece80"/>
-</div>
-
-
-
-
-
-
 
 ###
 
