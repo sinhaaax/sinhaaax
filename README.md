@@ -85,9 +85,9 @@
 </div>
 
 ###
-
+<!--
 <div align="center">
   <img width="1400" height="280" alt="pookie" src="https://github.com/user-attachments/assets/3f7af366-729e-44d2-8b38-eb63e8debebb" />
 </div>
-
+-->
 ###
