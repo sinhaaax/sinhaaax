@@ -36,7 +36,7 @@
 
   <img src="https://github-readme-stats-five-navy-73.vercel.app/api?username=sinhaaax&show_icons=true&theme=tokyonight&hide_border=true&v=1" height="170" alt="GitHub Stats"/>
 
-  <img src="https://streak-stats.demolab.com?user=sinhaaax&theme=tokyonight&hide_border=true&v=1" height="170" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=sinhaaax&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
 
   <img src="https://github-readme-stats-five-navy-73.vercel.app/api/top-langs?username=sinhaaax&layout=compact&theme=tokyonight&hide_border=true&v=1" height="170" alt="Top Languages"/>
 
