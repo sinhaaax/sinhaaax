@@ -1,6 +1,6 @@
 <h1 align="center">Hey👋, I am Sinhaaax</h1>
 
-###
+### 
 
 <img align="right" height="150" alt="Chainsaw Man GIF" src="https://github.com/user-attachments/assets/12955024-6b52-4aa1-ae8f-f2effc0d2ee9" />
 
